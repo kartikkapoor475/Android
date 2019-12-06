@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091272655274",
+    "firebase_url": "https://the-pallavi-s-wall-of-art.firebaseio.com",
+    "project_id": "the-pallavi-s-wall-of-art",
+    "storage_bucket": "the-pallavi-s-wall-of-art.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091272655274:android:2695bbc3c63ff9a5",
+        "android_client_info": {
+          "package_name": "com.example.imagelabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091272655274-mp7jht98mifjandn9cvlnggdtlmpqgpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagelabel",
+            "certificate_hash": "26701878c160a3051e56a2854d6fbf873ac02afc"
+          }
+        },
+        {
+          "client_id": "1091272655274-2q6ppg2565sduacohbpg8hs19e8ua5d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu19KNAJS83C4YopqbKkeAuMFA9H-sPX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091272655274-8rm1i5jcu3kgjb9a3f3ilje8bai8gnpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
